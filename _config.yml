@@ -1,8 +1,8 @@
 # Site settings
 title: Dev Diary
 description: Personal thought recording blog
-baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "https://se7endragon.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+baseurl: "" # the subpath of your site, e.g. /blog
+#url: "https://se7endragon.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: se7endragon
