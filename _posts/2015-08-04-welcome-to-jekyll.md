@@ -4,9 +4,6 @@ title: "Welcome to Jekyll"
 date: 2015-08-04 03:21:35
 image: '/assets/img/'
 description: 'Put your description here.'
-tags:
-- jekyll
-- web
 categories:
 - Jekyll is awesome
 twitter_text: 'Put your twitter description here.'
